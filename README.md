@@ -7,12 +7,14 @@
 - ⚡ Fun fact: I love playing games 🕹 and travel 🧳
 
 ### Connect with me:
+# ---
 
 [<img align="left" alt="#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
 ### Languages and Tools:
+# ---
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />][webdevplaylist]
@@ -33,8 +35,12 @@
 
 ---
 
-  <img align="left" alt="amitShindeGit's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=amitShindeGit&show_icons=true&hide_border=true" />
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
+<img align="left" alt="amitShindeGit's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=amitShindeGit&show_icons=true&hide_border=true" />
+
+</details>
 
 
 [linkedin]: www.linkedin.com/in/amitshindelink3din
