@@ -30,5 +30,12 @@
 <br />
 <br />
 
+
+---
+
+  <img align="left" alt="amitShindeGit's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=amitShindeGit&show_icons=true&hide_border=true" />
+
+
+
 [linkedin]: www.linkedin.com/in/amitshindelink3din
 [webdevplaylist]: #
