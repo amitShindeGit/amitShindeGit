@@ -41,5 +41,5 @@
 </details>
 
 
-[linkedin]: www.linkedin.com/in/amitshindelink3din
+[linkedin]: https://www.linkedin.com/in/amitshindelink3din
 [webdevplaylist]: #
