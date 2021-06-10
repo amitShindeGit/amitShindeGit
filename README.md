@@ -3,7 +3,7 @@
 ## I'm a Student, pursuing my Engineering from C.S.E branch.
 
 - 🌱 I’m currently learning everything 😁
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love playing games 🕹 and travel 🧳
 
 ## Connect with me:
