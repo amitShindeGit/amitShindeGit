@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 😁
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love playing games 🕹 and travel 🧳
+- ⚡ Fun fact: I love playing games 🕹 and travelling 🧳 
 
 ## Connect with me:
 
