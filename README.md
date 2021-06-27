@@ -36,7 +36,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
   
-  [![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amitShindeGit)](https://github.com/amitShindeGit/github-readme-stats)
+  [![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amitShindeGit&show_icons=true)](https://github.com/amitShindeGit/github-readme-stats)
  
 </details>
 
