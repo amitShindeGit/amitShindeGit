@@ -1,6 +1,6 @@
 ### Hi there, I'm Amit Shinde. 👋
 
-## I'm a Student, pursuing my Engineering from C.S.E branch.
+## I'm a Student, pursuing my Engineering in Computer Science.
 
 - 🌱 I’m currently learning everything 😁
 - 🥅 2021 Goals: Contribute more to Open Source projects
