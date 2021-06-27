@@ -35,8 +35,8 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
+  
 
-<img align="left" alt="amitShindeGit's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=amitShindeGit&show_icons=true&hide_border=true" />
 
 </details>
 
