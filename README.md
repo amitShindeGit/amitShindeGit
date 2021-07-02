@@ -43,6 +43,6 @@
 </details>
 
 
-[linkedin]: (https://www.linkedin.com/in/amitshindelink3din) {:target="_blank"}
+[linkedin]: <a href="https://www.linkedin.com/in/amitshindelink3din" target="_blank"></a>
 [hackerrank]: (https://www.hackerrank.com/amit_shinde24) {:target="_blank"}
 [webdevplaylist]: #
