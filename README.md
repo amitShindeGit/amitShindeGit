@@ -14,6 +14,14 @@
 
 <br />
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  
+  [![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amitShindeGit&show_icons=true)](https://github.com/amitShindeGit/github-readme-stats)
+ 
+</details>
+
+
 ## Languages and Tools:
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][webdevplaylist]
@@ -35,12 +43,7 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  
-  [![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amitShindeGit&show_icons=true)](https://github.com/amitShindeGit/github-readme-stats)
- 
-</details>
+
 
 
 [linkedin]:https://www.linkedin.com/in/amitshindelink3din
