@@ -9,6 +9,8 @@
 ## Connect with me:
 
 [<img align="left" alt="#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
+
 
 <br />
 
@@ -42,4 +44,5 @@
 
 
 [linkedin]: https://www.linkedin.com/in/amitshindelink3din
+[hackerrank]: https://www.hackerrank.com/amit_shinde24
 [webdevplaylist]: #
