@@ -3,7 +3,7 @@
 ## I'm a Student, pursuing my Engineering in Computer Science.
 
 - 🌱 I’m currently learning everything 😁
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love playing games 🕹 and travelling 🧳 
 
 ## Connect with me:
