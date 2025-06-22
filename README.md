@@ -1,15 +1,14 @@
 ### Hi there, I'm Amit Shinde. 👋
 
-## I'm a Student, pursuing my Engineering in Computer Science.
+## I'm a Full-stack developer.
 
 - 🌱 I’m currently learning everything 😁
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 This year's Goals: Contribute more to open-source projects
 - ⚡ Fun fact: I love playing games 🕹 and travelling 🧳 
 
 ## Connect with me:
 
 [<img align="left" alt="#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
 
 
 <br />
@@ -48,5 +47,3 @@
 
 
 [linkedin]:https://www.linkedin.com/in/amitshindelink3din
-[hackerrank]: https://www.hackerrank.com/amit_shinde24
-[webdevplaylist]: #
